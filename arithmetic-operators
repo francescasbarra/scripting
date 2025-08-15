@@ -1,0 +1,10 @@
+# ARITHMETIC OPERATORS
+
+arg1 -eq arg2 'true if arg1 is egual to arg2'
+arg1 -ne arg2 'true if arg1 is not equal to arg2'
+
+arg1 -lt arg2 'true if arg1 is less than arg2'
+arg1 -le arg2 'true if arg1 is less or equal to arg2'
+
+arg1 -gt arg2 'true if arg1 is greater than arg2'
+arg1 -ge arg2 'true if arg1 is greater than or equal to arg2'
